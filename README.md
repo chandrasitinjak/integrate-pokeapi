@@ -1,5 +1,4 @@
 # integtrate-pokeapi
-=======
 # Project Name
 
 Backend service for managing items and orders, including syncing and analytics.
